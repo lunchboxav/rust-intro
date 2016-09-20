@@ -1,0 +1,9 @@
+[package]
+name = "webserver"
+version = "0.1.0"
+authors = ["Adityo Pratomo <pratomo.adityo@gmail.com>"]
+
+[dependencies]
+iron = "*"
+mime = "*"
+router = "*"
